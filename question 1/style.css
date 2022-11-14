@@ -1,0 +1,25 @@
+.fa-light,
+.error {
+  color: red;
+}
+.horizontal-scrollable > .row {
+  display: inline-block;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.horizontal-scrollable > .row > .card {
+  display: inline-block;
+  float: none;
+}
+#divCard {
+  width: 100%;
+}
+.card-text {
+  box-shadow: 3px;
+  font-size: 15px;
+  font-weight: 600;
+  word-spacing: 1px;
+  column-gap: 1%;
+}

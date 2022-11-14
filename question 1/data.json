@@ -1,0 +1,102 @@
+[
+  {
+    "bookId": 1,
+    "imgUrl": "https://hackr.io/blog/uploads/images/clean-code-a-handbook-of-agile-software-craftsmanship-1st-edition.jpg",
+    "Name": "Clean-Code",
+    "Author": "Robert C. Martin",
+    "Category": "software",
+    "QuantityAvailable": 10,
+    "Price": 580,
+    "Address": "Address 1"
+  },
+  {
+    "bookId": 2,
+    "imgUrl": "https://hackr.io/blog/media/introduction-to-algorithms-eastern-economy-edition.jpg",
+    "Name": "Algorithm",
+    "Author": "Thomas",
+    "Category": "software",
+    "QuantityAvailable": 10,
+    "Price": 670,
+    "Address": "Address 2"
+  },
+  {
+    "bookId": 3,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHfsQ3CJTIKrmF-b-cQezD4AauUdIW7-LYiw&usqp=CAU",
+    "Name": "SICP",
+    "Author": "Harold Abelson",
+    "Category": "software",
+    "QuantityAvailable": 10,
+    "Price": 720,
+    "Address": "Address 3"
+  },
+  {
+    "bookId": 4,
+    "imgUrl": "https://images-na.ssl-images-amazon.com/images/I/51IM3Ywr1yL._SX397_BO1,204,203,200_.jpg",
+    "Name": "Complete-code",
+    "Author": "Steve-Mcconnell",
+    "Category": "coding",
+    "QuantityAvailable": 10,
+    "Price": 980,
+    "Address": "Address 4"
+  },
+  {
+    "bookId": 5,
+    "imgUrl": "https://m.media-amazon.com/images/I/518FqJvR9aL.jpg",
+    "Name": "Pragmatic Programmer",
+    "Author": "David thomas",
+    "Category": "Programing",
+    "QuantityAvailable": 10,
+    "Price": 1500,
+    "Address": "Address 5"
+  },
+  {
+    "bookId": 6,
+    "imgUrl": "https://m.media-amazon.com/images/I/51qAcfa7xrL.jpg",
+    "Name": "Penetration Testing",
+    "Author": "Georgia Weidman",
+    "Category": "Hacking",
+    "QuantityAvailable": 10,
+    "Price": 1380,
+    "Address": "Address 6"
+  },
+  {
+    "bookId": 7,
+    "imgUrl": "https://m.media-amazon.com/images/P/B07LCM8RG2.01._SCLZZZZZZZ_SX500_.jpg",
+    "Name": "Refactoring",
+    "Author": "Martin Fowler",
+    "Category": "software",
+    "QuantityAvailable": 10,
+    "Price": 880,
+    "Address": "Address 7"
+  },
+  {
+    "bookId": 8,
+    "imgUrl": "https://miro.medium.com/max/812/1*iLjU2fIF9xAIF16XMj8_8Q.jpeg",
+    "Name": "The Hardware Hacker",
+    "Author": "Andrew Huang",
+    "Category": "Hacking",
+    "QuantityAvailable": 10,
+    "Price": 2100,
+    "Address": "Address 8"
+  },
+  {
+    "bookId": 9,
+    "imgUrl": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/03/51dAWYyitYL._SX384_BO1204203200_.jpg",
+    "Name": "Malware Analysis",
+    "Author": "Michael Sikorski",
+    "Category": "Hacking",
+    "QuantityAvailable": 10,
+    "Price": 1480,
+    "Address": "Address 9"
+  },
+  {
+    "bookId": 10,
+    "imgUrl": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/03/51SxY0XvfCL._SX331_BO1204203200_.jpg",
+    "Name": "Cyber Effect",
+    "Author": "Mary Aiken",
+    "Category": "Hacking",
+    "QuantityAvailable": 10,
+    "Price": 3180,
+    "Address": "Address 10"
+  }
+]
